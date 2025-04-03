@@ -20,7 +20,7 @@ alist中创建新的webdav驱动,填写http://ip:端口即可,例如http://127.0
 注意：alist和alist-mixfileweb可以互相ping通
 
 
-### 自己构建docker镜像启动服务
+### 自行构建docker镜像启动服务
 ```bash
 #构建docker镜像
 下载本项目,cd 到docker目录下
